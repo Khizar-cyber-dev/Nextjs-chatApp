@@ -5,7 +5,7 @@ import { useEffect } from "react";
 
 export default function Home(){
     useEffect(() => {
-        // Ensure any client-side logic is handled here
+        // This is for client side rendering
     }, []);
 
     return (
